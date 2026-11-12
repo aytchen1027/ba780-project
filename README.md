@@ -2,8 +2,6 @@
 
 **What Open Food Facts and Open Prices reveal about U.S. packaged groceries**
 
-BA780 · Cohort B · Team 2 (B02) · Final deliverable
-
 > **The belief we tested:** "Eating healthy is expensive."
 > **What we found:** in the stores we could measure, it mostly isn't. Shoppers overpay for brands, packaging and energy-dense treats, not for nutrition.
 
