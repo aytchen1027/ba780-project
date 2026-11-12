@@ -142,15 +142,6 @@ Further risks (large packs vs. food waste, Nutri-Score blind spots, stale prices
 - Improve product matching using finer categories and names; compare price per serving as well as per 100 g.
 - Pilot with a small group of shoppers to measure swap acceptance and savings.
 
-## Team
-
-| Theme | Contributor |
-|---|---|
-| 1. Know your aisle | Aashna |
-| 2. The greener choice | Gauri |
-| 3. Healthy doesn't cost more | Peter |
-| 4. What shoppers pay for | Dhruv |
-| 5. Shop the store | Alex |
 
 ## GenAI disclosure
 
